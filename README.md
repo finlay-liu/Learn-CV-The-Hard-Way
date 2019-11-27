@@ -11,6 +11,7 @@ Learn Computer Vision The Hard Way，通过实际案例来学习计算机视觉�
 
 ## 常见的计算视觉任务
 
+<iframe height=500 width=500 src="https://gluon-cv.mxnet.io/_static/short_demo.gif">
 ![https://gluon-cv.mxnet.io/_static/short_demo.gif](https://gluon-cv.mxnet.io/_static/short_demo.gif)
 
 - 有什么任务（任务目标和评价指标）？
