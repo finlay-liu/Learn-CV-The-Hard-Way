@@ -121,3 +121,11 @@ Learn Computer Vision The Hard Way，通过实际案例来学习计算机视觉�
    Jan Erik Solem (作者) 朱文涛 , 袁勇 (译者)
 
    介绍：介绍了Python环境下的图像处理基本操作；
+
+## 版权说明
+
+本仓库所有代码和文档版权归本人所有；
+
+如果有合作和沟通意向，请添加微信。
+
+![](wechat.jpeg)
