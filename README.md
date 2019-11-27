@@ -28,8 +28,13 @@ Learn Computer Vision The Hard Way，通过实际案例来学习计算机视觉�
 ## 数字图像基础
 
 - 图像操作与处理
+  - 图像读取、旋转、缩放
+  - 颜色空间转换、直方图均衡化
+  - 图像滤波
 - OpenCV基础
 - 图像局部描述算子
+  - Harris角点
+  - SIFT关键点
 
 ## 卷积神经网络基础
 
@@ -57,28 +62,23 @@ Learn Computer Vision The Hard Way，通过实际案例来学习计算机视觉�
   - Pytorch安装
   - 数据结构Tensor与Variable
   - 自动微分autograd
-
 - 数据DataLoader
   - 内置的Dataset与DataLoader
   - 自定义Dataset
   - 常见的数据扩增方法
-
 - 模型搭建
   - 模型搭建Sequential
   - 常见的网络层
   - 常见的参数初始化方法
-
 - 优化器与损失函数
   - 常见的优化器
   - 常见的损失函数
   - 学习率调整策略
   - EarlyStop等正则化技术
-
 - 模型评价方法
   - 分类Top1与Top5准确率计算
   - 分类AUC计算
   - 分类混淆矩阵计算
-
 - 模型训练与验证
   - 模型训练与验证
   - 模型权重保存与加载
